@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Qr App</string>
+    <string name="scan_again">scan again</string>
+    <string name="generate_qr">generate QR</string>
+    <string name="qr_value">qr value</string>
+    <string name="scan_qr">scan qr</string>
+</resources>
